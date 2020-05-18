@@ -105,7 +105,7 @@ formatter.match({
   "location": "postRequestwithdatadriven.submit_a_something_request_with_data_something(String,String)"
 });
 formatter.result({
-  "duration": 939052900,
+  "duration": 1251556700,
   "status": "passed"
 });
 formatter.match({
@@ -118,7 +118,7 @@ formatter.match({
   "location": "postRequestwithdatadriven.verify_the_http_status_code_of_request_submitted_something(String)"
 });
 formatter.result({
-  "duration": 1781303100,
+  "duration": 2725818600,
   "status": "passed"
 });
 formatter.scenario({
@@ -163,7 +163,7 @@ formatter.match({
   "location": "postRequestwithdatadriven.submit_a_something_request_with_data_something(String,String)"
 });
 formatter.result({
-  "duration": 2476100,
+  "duration": 3350400,
   "status": "passed"
 });
 formatter.match({
@@ -176,7 +176,7 @@ formatter.match({
   "location": "postRequestwithdatadriven.verify_the_http_status_code_of_request_submitted_something(String)"
 });
 formatter.result({
-  "duration": 1157538300,
+  "duration": 2407918300,
   "status": "passed"
 });
 });
